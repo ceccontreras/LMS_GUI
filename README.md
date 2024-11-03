@@ -4,7 +4,7 @@
 ## Author
 - **Name**: Carlos Campos
 - **Course**: Software Development
-- **Date**: September 22, 2024
+- **Date**: October 31, 2024
 
 ## Overview
 The Library Management System (LMS) is a software application designed to manage a collection of books in a library. The system allows users to add, remove, check out, and check in books, as well as display the current collection.
